@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Signup Page-->
+    <string name="app_name">TicTacToe</string>
+    <string name="textview1">Welome to TicTactoe Game</string>
+    <string name="textViewEmail">Email</string>
+    <string name="EditTextEmail"></string>
+    <string name="textView1">Username</string>
+    <string name="textView2">Password</string>
+    <string name="EditTextUser"></string>
+    <string name="EditTextPassword"></string>
+    <string name="SignupButton">Signup</string>
+    <string name="textView">Login</string>
+
+    <!-- Login Page-->
+    <string name="EditTextheaderLogin">Welcome Back!</string>
+    <string name="textViewLogin1">Username</string>
+    <string name="textViewLogin2">Password</string>
+    <string name="EditTextNameLogin"></string>
+    <string name="EditTextPasswordLogin"></string>
+    <string name="LoginButton">Login</string>
+
+    <!-- Tic tac toe -->
+    <string name="Xbutton">x</string>
+    <string name="Obutton">o</string>
+</resources>
